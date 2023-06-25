@@ -4,7 +4,8 @@
 I'm a passionate data science enthusiast and software engineer with a keen interest in solving real-world problems using data-driven approaches. I enjoy exploring complex datasets, developing machine learning models, and creating scalable software solutions.
 
 ## Skills
-- Programming Languages: ![image](python.org)
+- Programming Languages: ![download](https://github.com/Kslaxman/Kslaxman/assets/57565230/eb4e6f7b-baab-4bc4-a7d3-eb39185ec06e)
+
 
 
 
