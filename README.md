@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, I'm Sai Laxman 👋
+
+## About Me
+I'm a passionate data science enthusiast and software engineer with a keen interest in solving real-world problems using data-driven approaches. I enjoy exploring complex datasets, developing machine learning models, and creating scalable software solutions.
+
+## Skills
+- Programming Languages: ![image](python.org)
+
+
 
 <!--
 **Kslaxman/Kslaxman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
