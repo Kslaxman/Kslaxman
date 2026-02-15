@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Laxman 👋🏼
 
-<!--
-**Kslaxman/Kslaxman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science Student** From Illinois Tech | Learning one dataset at a time 📚
 
-Here are some ideas to get you started:
+Passionate about data, slightly obsessed with clean datasets (do they exist?).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: Why my neural network thinks everything is a hot dog
+- 💻 Working on: Projects that sounded simpler in my head
+- 📊 Fun fact: I've cleaned more data than I've analyzed
+- 🎯 Goal: Build something that doesn't overfit for once
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sailaxmankotha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailaxman-kotha-5099651a0/)
