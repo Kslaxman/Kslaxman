@@ -14,7 +14,9 @@ Passionate about data, slightly obsessed with clean datasets (do they exist?).
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=plastic&logo=tableau&logoColor=white)
 <br>
+
 Contact me
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sailaxmankotha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailaxman-kotha-5099651a0/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
