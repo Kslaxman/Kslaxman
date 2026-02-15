@@ -1,6 +1,6 @@
 ## Hi, I'm Laxman 👋🏼
 
-**Data Science Student** From Illinois Tech | Learning one dataset at a time 📚
+**Data Science Student** From Illinois Tech | Understanding one dataset at a time 📚
 
 Passionate about data, slightly obsessed with clean datasets (do they exist?).
 
