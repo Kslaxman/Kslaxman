@@ -2,7 +2,7 @@
 
 **Data Science Student** From Illinois Tech | Understanding one dataset at a time 📚
 
-Passionate about data, slightly obsessed with clean datasets (do they exist?).
+Passionate about data, slightly obsessed with clean datasets.
 
 - 🌱 Currently learning: MLOps and GenerativeAI
 - 💻 Working on: Projects that sounded simpler in my head
