@@ -4,7 +4,7 @@
 
 Passionate about data, slightly obsessed with clean datasets (do they exist?).
 
-- 🌱 Currently learning: Why my neural network thinks everything is a hot dog
+- 🌱 Currently learning: MLOps and GenerativeAI
 - 💻 Working on: Projects that sounded simpler in my head
 - 📊 Fun fact: I've cleaned more data than I've analyzed
 - 🎯 Goal: Build something that doesn't overfit for once
